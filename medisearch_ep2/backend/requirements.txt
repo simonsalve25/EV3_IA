@@ -13,3 +13,6 @@ pytest==8.2.0
 pytest-html==4.1.1
 # EP2: memoria de largo plazo
 redis==5.0.4
+streamlit>=1.30.0
+psutil>=5.9.0
+pandas>=2.0.0
